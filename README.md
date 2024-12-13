@@ -1,5 +1,5 @@
 # Jeremy Raugh  
-jeremyraugh@gmail.com | (681) 242-1530  
+jeremyraugh@gmail.com
 
 ## Objective  
 Motivated Engineering Technology student at West Virginia University with experience in electrical work and leadership in amateur radio. Seeking opportunities to apply hands-on skills and technical knowledge in an engineering or technology role.
