@@ -41,7 +41,7 @@ GPA: 3.6/4.0
 - Lead club meetings and manage space for club activities, focusing on fostering collaboration and skill development.  
 - Coordinate with local agencies (National Weather Service, Green Bank Observatory, SKYWARN) for community outreach and technical collaborations.  
 - Oversee the installation and maintenance of emergency communication systems serving the Morgantown area.  
-- Contribute to the **High Altitude Ballooning Project**, designing, testing, and deploying radio payloads for high-altitude flights.  
+- Contributed to the **High Altitude Ballooning Project**, designing, testing, and deploying radio payloads for high-altitude flights.  
 
 **WVU Core Arboretum** (Spring 2023)  
 - Deployed event equipment, took visitor attendance, and performed semi-guided tours for visitors.  
