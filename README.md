@@ -1,46 +1,55 @@
 # Jeremy Raugh  
-[jeremyraugh@gmail.com](mailto:jeremyraugh@gmail.com) | (681) 242-1530
+jeremyraugh@gmail.com | (681) 242-1530  
+
+## Objective  
+Motivated Engineering Technology student at West Virginia University with experience in electrical work and leadership in amateur radio. Seeking opportunities to apply hands-on skills and technical knowledge in an engineering or technology role.
 
 ## Education  
-**Bachelor of Science in Engineering Technology**  
-West Virginia University, Morgantown, WV  
-Expected: May 2027 | GPA: 3.8/4.0
+**West Virginia University**, Morgantown, WV — Expected: May 2027  
+Bachelor of Science in Engineering Technology  
+GPA: 3.6/4.0
 
 ## Experience  
 
-### Electrician’s Apprentice  
-**Uncle Ernie’s Electrical Services**, Martinsburg, WV  
-*Jan 2022 – Apr 2022*  
+**Uncle Ernie’s Electrical Services** | Martinsburg, WV  
+**Electrician’s Apprentice** — Jan 2022 – Apr 2022  
 - Installed, inspected, and repaired residential electrical circuits.  
 - Managed procurement and storage of materials and tools.  
-- Ensured compliance with electrical codes.  
-- Provided invoice quotes and met with customers.
+- Ensured circuits complied with electrical codes.  
+- Provided invoice quotes and met with customers.  
 
-### Petsitter  
-**In-Home Pet Care**, Martinsburg, WV  
-*2019–Present*  
-- Ensure pets receive proper care, including food, water, exercise, and medication management.
+**In-Home Pet Care** | Martinsburg, WV — 2019–Present  
+**Petsitter**  
+- Ensure pets have access to food and water and receive proper time to exercise.  
+- Manage pet medication.  
 
-### Child Care Provider  
-**In-Home Child Care**, Martinsburg, WV  
-*2019–2021*  
-- Designed developmentally appropriate activities for children aged 4-14.  
-- Cultivated a safe, fun environment for emotional and intellectual growth.
+**In-Home Child Care** | Martinsburg, WV — 2019–2021  
+**Child Care Provider**  
+- Cultivated fun and safe environments for children to thrive emotionally and intellectually.  
+- Designed developmentally appropriate activities for children ranging from 4 to 14 years of age.  
 
 ## Skills/Certifications  
-- **Computer:** Specialist certified in Microsoft Office Suite, experience with SolidWorks.  
-- **Machining and Welding:** Mills, Lathes, Welding, Sheet Metal Fabrication.  
-- **Languages:** English (Native), Japanese (Conversant).
+- **Software:** SolidWorks (CSWA Certified)
+- **Machining & Fabrication:** Mills, Lathes, Welding, Sheet Metal Fabrication, CNC operation.
+- **Electronics & Tools:** Circuit testing, use of multimeters.
+- **Languages:** English (Native), Japanese (Conversant).  
 
 ## Volunteer/Club Activities  
 
-### Executive, WVU Amateur Radio Club  
-*Aug 2024 – Present*  
-- Manage club spaces and hold two monthly meetings.  
-- Collaborate on projects and maintain emergency communications systems for Morgantown, WV.  
-- Work with organizations such as the National Weather Service and Green Bank Observatory.  
-- Provide emergency communications for events like GRUSK.
+**West Virginia Amateur Radio Club**  
+**Shack Manager** — Aug 2024 – Present  
+- Lead club meetings and manage space for club activities, focusing on fostering collaboration and skill development.  
+- Coordinate with local agencies (National Weather Service, Green Bank Observatory, SKYWARN) for community outreach and technical collaborations.  
+- Oversee the installation and maintenance of emergency communication systems serving the Morgantown area.  
+- Contribute to the **High Altitude Ballooning Project**, designing, testing, and deploying radio payloads for high-altitude flights.  
 
-### WVU Core Arboretum  
-*Spring 2023*  
-- Deployed event equipment, assisted with visitor attendance, and led semi-guided tours.
+**WVU Core Arboretum** (Spring 2023)  
+- Deployed event equipment, took visitor attendance, and performed semi-guided tours for visitors.  
+
+## Projects  
+- **Homelab (Personal Project)**  
+  Built and maintained a homelab for learning and experimentation with networking, virtualization, and server management. Currently running multiple virtual machines for testing and development purposes, utilizing tools like Docker and Proxmox.  
+
+## Certifications  
+- **Certified SolidWorks Associate (CSWA)**  
+- **Certified as an Microsoft Office Specialist** 
